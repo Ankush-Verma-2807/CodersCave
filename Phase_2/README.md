@@ -66,7 +66,7 @@ This dashboard was created by web scraping data from various [Mutual Funds in In
 
 ### Dashboard Snapshot:
 
-[Dashboard_Mutual_Fund_ROI.pdf](https://github.com/Ankush-Verma-2807/CodersCave/files/14065130/Dashboard_Mutual_Fund_ROI.pdf)
+![Screenshot 2024-01-26 183836](https://github.com/Ankush-Verma-2807/CodersCave/assets/155877268/a337cb53-ee0e-4cee-80cd-2f85d7d5bb7e)
 
 ## More About Mutual Fund Ratios: 
 
