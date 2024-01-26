@@ -66,7 +66,7 @@ This dashboard was created by web scraping data from various [Mutual Funds in In
 
 ### Dashboard Snapshot:
 
-
+[Dashboard_Mutual_Fund_ROI.pdf](https://github.com/Ankush-Verma-2807/CodersCave/files/14065130/Dashboard_Mutual_Fund_ROI.pdf)
 
 ## More About Mutual Fund Ratios: 
 
@@ -92,7 +92,7 @@ Sharpe Ratio of a mutual fund reveals its potential risk-adjusted returns. The r
 
 ## Thanks for Exploring the Project
 
-### **Disclaimer:** The information provided in this Mutual Fund Dashboard on GitHub is for educational and informational purposes only. It does not constitute financial advice, and users are encouraged to conduct their own research and consult with financial professionals before making investment decisions.
+**Disclaimer:** The information provided in this Mutual Fund Dashboard on GitHub is for educational and informational purposes only. It does not constitute financial advice, and users are encouraged to conduct their own research and consult with financial professionals before making investment decisions.
 
 
 
