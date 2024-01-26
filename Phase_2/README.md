@@ -66,6 +66,8 @@ This dashboard was created by web scraping data from various [Mutual Funds in In
 
 ### Dashboard Snapshot:
 
+
+
 ## More About Mutual Fund Ratios: 
 
 - **Expense Ratio:**
